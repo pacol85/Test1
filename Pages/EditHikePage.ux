@@ -9,7 +9,7 @@
      </Grid>
      <ScrollView>
        <StackPanel>
-          <hikr.Text>Name:</hikr.Text><TextBox Value="{name}" />
+          <hikr.Text Opacity="0.6" >Name:</hikr.Text><TextBox Value="{name}" />
           <hikr.Text>Location:</hikr.Text><TextBox Value="{loc}" />
           <hikr.Text>Distance (Km):</hikr.Text><TextBox Value="{dist}" InputHint="Decimal" />
           <hikr.Text>Rating:</hikr.Text><TextBox Value="{rating}" InputHint="Integer" />
