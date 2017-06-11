@@ -1,4 +1,4 @@
-<Page ux:Class="HomePage">
+<hikr.Page ux:Class="HomePage">
    <Router ux:Dependency="router" />
 
    <JavaScript File="HomePage.js" />
@@ -22,4 +22,4 @@
         </StackPanel>
      </ScrollView>
    </DockPanel>
-</Page>
+</hikr.Page>
