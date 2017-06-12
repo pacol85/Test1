@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_755786550a75b4b7b5842a9e8f7550d0f37061e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_52f4deaf084098ff37b93f26f0929e3be71ab456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_ed32ce252c7c1b4fe55f8e22b1e794f82129fb02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_b2b6a9439a07b3c3236df1b473366b1039ffd773.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_27bc12e296df90557a4201970192e5e452e68378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\flozano\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_2106c4efd26fd811b9cb14128cbfc5ae54b3e3d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\flozano\git\Test1\build\Android\Debug\app\src\main\libs\nv-websocket-client.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e2859df4b1c217c768c1b4a23f54ef66af50140">
+        <dex dex="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\pre-dexed\debug\nv-websocket-client_9059fc456f8888856d4231daf321e2805244ffd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_b0398ccd19bd52bb557ae0c3aee56d0663e30ebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\flozano\git\Test1\build\Android\Debug\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_60be3d1b7de38e9fde12e25ddc4aaf9cd68d8327.jar" />
+    </item>
+
+</items>

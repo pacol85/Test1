@@ -1,0 +1,7 @@
+C:/Users/flozano/AppData/Local/Android/sdk/ndk-bundle
+9
+armeabi-v7a
+-O3 -g -DNDEBUG
+
+ -IC:/Users/flozano/AppData/Local/Fusetools/Packages/UnoCore/1.0.11/prebuilt/Android/include -IC:/Users/flozano/AppData/Local/Android/sdk/ndk-bundle/sources/android/support/include -IC:/Users/flozano/AppData/Local/Fusetools/Packages/Fuse.Scripting.V8/1.0.2
+C:/Users/flozano/AppData/Local/Android/sdk/ndk-bundle/sources/cxx-stl/stlport/stlport
